@@ -40,7 +40,7 @@ The github link is: [github]()
 
 #### 4.1 World total case
 
-![world_cases](/Users/achang/Library/CloudStorage/OneDrive-个人/USC/Courses/DSCI 510/Project/final report/result/world_cases.png)
+![world_cases](https://github.com/xxachangxx/DSCI_510_Final/blob/master/result/world_cases.png?raw=true)
 
 This figure describes the world new cases every day, and the total cases every day from 2020-01-22 to 2022-11-29.
 
@@ -79,7 +79,7 @@ So what happened in this 5 spike? I refer to the [CDC museum website](https://ww
 
 #### 4.2 Continent cases
 
-![world_cases](/Users/achang/Library/CloudStorage/OneDrive-个人/USC/Courses/DSCI 510/Project/final report/result/continent_cases.png)
+![world_cases](https://github.com/xxachangxx/DSCI_510_Final/blob/master/result/continent_cases.png?raw=true)
 
 This plot shows how total cases and new cases changes in each continents. The 5 orange region have the same meaning as mentioned above.
 
